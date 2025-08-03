@@ -1,0 +1,501 @@
+Region,Value,Year,CrimeType,SolvedCases,UnsolvedCases
+Shymkent city,11933,2018,Theft,8463,3470
+Shymkent city,11933,2018,Assault,11326,607
+Shymkent city,11933,2018,Fraud,8331,3602
+Shymkent city,11933,2018,Robbery,9644,2289
+Shymkent city,11933,2018,Vandalism,11538,395
+Shymkent city,11933,2019,Theft,4339,7594
+Shymkent city,11933,2019,Assault,7211,4722
+Shymkent city,11933,2019,Fraud,10377,1556
+Shymkent city,11933,2019,Robbery,6833,5100
+Shymkent city,11933,2019,Vandalism,11266,667
+Shymkent city,11933,2020,Theft,6777,5156
+Shymkent city,11933,2020,Assault,2873,9060
+Shymkent city,11933,2020,Fraud,3172,8761
+Shymkent city,11933,2020,Robbery,3952,7981
+Shymkent city,11933,2020,Vandalism,10907,1026
+Shymkent city,11933,2021,Theft,1460,10473
+Shymkent city,11933,2021,Assault,3850,8083
+Shymkent city,11933,2021,Fraud,7815,4118
+Shymkent city,11933,2021,Robbery,8058,3875
+Shymkent city,11933,2021,Vandalism,9749,2184
+Shymkent city,11933,2022,Theft,8490,3443
+Shymkent city,11933,2022,Assault,2270,9663
+Shymkent city,11933,2022,Fraud,11228,705
+Shymkent city,11933,2022,Robbery,6619,5314
+Shymkent city,11933,2022,Vandalism,6797,5136
+Turkestan region,6863,2018,Theft,1934,4929
+Turkestan region,6863,2018,Assault,5883,980
+Turkestan region,6863,2018,Fraud,3019,3844
+Turkestan region,6863,2018,Robbery,1651,5212
+Turkestan region,6863,2018,Vandalism,3506,3357
+Turkestan region,6863,2019,Theft,1206,5657
+Turkestan region,6863,2019,Assault,6824,39
+Turkestan region,6863,2019,Fraud,6794,69
+Turkestan region,6863,2019,Robbery,5296,1567
+Turkestan region,6863,2019,Vandalism,3136,3727
+Turkestan region,6863,2020,Theft,1475,5388
+Turkestan region,6863,2020,Assault,2199,4664
+Turkestan region,6863,2020,Fraud,4914,1949
+Turkestan region,6863,2020,Robbery,1027,5836
+Turkestan region,6863,2020,Vandalism,937,5926
+Turkestan region,6863,2021,Theft,4829,2034
+Turkestan region,6863,2021,Assault,2478,4385
+Turkestan region,6863,2021,Fraud,2156,4707
+Turkestan region,6863,2021,Robbery,6354,509
+Turkestan region,6863,2021,Vandalism,6483,380
+Turkestan region,6863,2022,Theft,5322,1541
+Turkestan region,6863,2022,Assault,4582,2281
+Turkestan region,6863,2022,Fraud,2027,4836
+Turkestan region,6863,2022,Robbery,5810,1053
+Turkestan region,6863,2022,Vandalism,5826,1037
+Ulytau region,790,2018,Theft,538,252
+Ulytau region,790,2018,Assault,719,71
+Ulytau region,790,2018,Fraud,652,138
+Ulytau region,790,2018,Robbery,534,256
+Ulytau region,790,2018,Vandalism,468,322
+Ulytau region,790,2019,Theft,299,491
+Ulytau region,790,2019,Assault,94,696
+Ulytau region,790,2019,Fraud,746,44
+Ulytau region,790,2019,Robbery,54,736
+Ulytau region,790,2019,Vandalism,310,480
+Ulytau region,790,2020,Theft,394,396
+Ulytau region,790,2020,Assault,125,665
+Ulytau region,790,2020,Fraud,598,192
+Ulytau region,790,2020,Robbery,437,353
+Ulytau region,790,2020,Vandalism,313,477
+Ulytau region,790,2021,Theft,268,522
+Ulytau region,790,2021,Assault,177,613
+Ulytau region,790,2021,Fraud,775,15
+Ulytau region,790,2021,Robbery,340,450
+Ulytau region,790,2021,Vandalism,593,197
+Ulytau region,790,2022,Theft,445,345
+Ulytau region,790,2022,Assault,300,490
+Ulytau region,790,2022,Fraud,101,689
+Ulytau region,790,2022,Robbery,482,308
+Ulytau region,790,2022,Vandalism,609,181
+West Kazakhstan region,2306,2018,Theft,399,1907
+West Kazakhstan region,2306,2018,Assault,161,2145
+West Kazakhstan region,2306,2018,Fraud,320,1986
+West Kazakhstan region,2306,2018,Robbery,1882,424
+West Kazakhstan region,2306,2018,Vandalism,1260,1046
+West Kazakhstan region,2306,2019,Theft,433,1873
+West Kazakhstan region,2306,2019,Assault,2213,93
+West Kazakhstan region,2306,2019,Fraud,1494,812
+West Kazakhstan region,2306,2019,Robbery,1681,625
+West Kazakhstan region,2306,2019,Vandalism,444,1862
+West Kazakhstan region,2306,2020,Theft,702,1604
+West Kazakhstan region,2306,2020,Assault,388,1918
+West Kazakhstan region,2306,2020,Fraud,562,1744
+West Kazakhstan region,2306,2020,Robbery,908,1398
+West Kazakhstan region,2306,2020,Vandalism,293,2013
+West Kazakhstan region,2306,2021,Theft,1952,354
+West Kazakhstan region,2306,2021,Assault,2231,75
+West Kazakhstan region,2306,2021,Fraud,845,1461
+West Kazakhstan region,2306,2021,Robbery,1961,345
+West Kazakhstan region,2306,2021,Vandalism,2066,240
+West Kazakhstan region,2306,2022,Theft,557,1749
+West Kazakhstan region,2306,2022,Assault,1333,973
+West Kazakhstan region,2306,2022,Fraud,857,1449
+West Kazakhstan region,2306,2022,Robbery,2007,299
+West Kazakhstan region,2306,2022,Vandalism,761,1545
+Jambyl region,6470,2018,Theft,1953,4517
+Jambyl region,6470,2018,Assault,4744,1726
+Jambyl region,6470,2018,Fraud,6143,327
+Jambyl region,6470,2018,Robbery,3622,2848
+Jambyl region,6470,2018,Vandalism,630,5840
+Jambyl region,6470,2019,Theft,766,5704
+Jambyl region,6470,2019,Assault,2020,4450
+Jambyl region,6470,2019,Fraud,836,5634
+Jambyl region,6470,2019,Robbery,5005,1465
+Jambyl region,6470,2019,Vandalism,5092,1378
+Jambyl region,6470,2020,Theft,5771,699
+Jambyl region,6470,2020,Assault,3134,3336
+Jambyl region,6470,2020,Fraud,6416,54
+Jambyl region,6470,2020,Robbery,3010,3460
+Jambyl region,6470,2020,Vandalism,3882,2588
+Jambyl region,6470,2021,Theft,6354,116
+Jambyl region,6470,2021,Assault,3381,3089
+Jambyl region,6470,2021,Fraud,1162,5308
+Jambyl region,6470,2021,Robbery,1219,5251
+Jambyl region,6470,2021,Vandalism,4108,2362
+Jambyl region,6470,2022,Theft,6444,26
+Jambyl region,6470,2022,Assault,2726,3744
+Jambyl region,6470,2022,Fraud,3251,3219
+Jambyl region,6470,2022,Robbery,4753,1717
+Jambyl region,6470,2022,Vandalism,4556,1914
+Jetisu region,2306,2018,Theft,26,2280
+Jetisu region,2306,2018,Assault,1563,743
+Jetisu region,2306,2018,Fraud,635,1671
+Jetisu region,2306,2018,Robbery,1723,583
+Jetisu region,2306,2018,Vandalism,558,1748
+Jetisu region,2306,2019,Theft,164,2142
+Jetisu region,2306,2019,Assault,1659,647
+Jetisu region,2306,2019,Fraud,1586,720
+Jetisu region,2306,2019,Robbery,726,1580
+Jetisu region,2306,2019,Vandalism,1967,339
+Jetisu region,2306,2020,Theft,487,1819
+Jetisu region,2306,2020,Assault,1359,947
+Jetisu region,2306,2020,Fraud,141,2165
+Jetisu region,2306,2020,Robbery,1776,530
+Jetisu region,2306,2020,Vandalism,937,1369
+Jetisu region,2306,2021,Theft,1149,1157
+Jetisu region,2306,2021,Assault,1421,885
+Jetisu region,2306,2021,Fraud,1247,1059
+Jetisu region,2306,2021,Robbery,646,1660
+Jetisu region,2306,2021,Vandalism,161,2145
+Jetisu region,2306,2022,Theft,327,1979
+Jetisu region,2306,2022,Assault,135,2171
+Jetisu region,2306,2022,Fraud,660,1646
+Jetisu region,2306,2022,Robbery,1297,1009
+Jetisu region,2306,2022,Vandalism,530,1776
+Abay region,2537,2018,Theft,878,1659
+Abay region,2537,2018,Assault,841,1696
+Abay region,2537,2018,Fraud,222,2315
+Abay region,2537,2018,Robbery,1334,1203
+Abay region,2537,2018,Vandalism,2226,311
+Abay region,2537,2019,Theft,171,2366
+Abay region,2537,2019,Assault,608,1929
+Abay region,2537,2019,Fraud,1755,782
+Abay region,2537,2019,Robbery,1294,1243
+Abay region,2537,2019,Vandalism,390,2147
+Abay region,2537,2020,Theft,1239,1298
+Abay region,2537,2020,Assault,1337,1200
+Abay region,2537,2020,Fraud,440,2097
+Abay region,2537,2020,Robbery,1828,709
+Abay region,2537,2020,Vandalism,1651,886
+Abay region,2537,2021,Theft,959,1578
+Abay region,2537,2021,Assault,305,2232
+Abay region,2537,2021,Fraud,2226,311
+Abay region,2537,2021,Robbery,1518,1019
+Abay region,2537,2021,Vandalism,202,2335
+Abay region,2537,2022,Theft,1131,1406
+Abay region,2537,2022,Assault,711,1826
+Abay region,2537,2022,Fraud,833,1704
+Abay region,2537,2022,Robbery,1971,566
+Abay region,2537,2022,Vandalism,4,2533
+Akmola region,6584,2018,Theft,2802,3782
+Akmola region,6584,2018,Assault,571,6013
+Akmola region,6584,2018,Fraud,5677,907
+Akmola region,6584,2018,Robbery,4149,2435
+Akmola region,6584,2018,Vandalism,77,6507
+Akmola region,6584,2019,Theft,1353,5231
+Akmola region,6584,2019,Assault,2177,4407
+Akmola region,6584,2019,Fraud,5218,1366
+Akmola region,6584,2019,Robbery,1397,5187
+Akmola region,6584,2019,Vandalism,1037,5547
+Akmola region,6584,2020,Theft,3012,3572
+Akmola region,6584,2020,Assault,4126,2458
+Akmola region,6584,2020,Fraud,1461,5123
+Akmola region,6584,2020,Robbery,931,5653
+Akmola region,6584,2020,Vandalism,4072,2512
+Akmola region,6584,2021,Theft,1345,5239
+Akmola region,6584,2021,Assault,3997,2587
+Akmola region,6584,2021,Fraud,6096,488
+Akmola region,6584,2021,Robbery,4188,2396
+Akmola region,6584,2021,Vandalism,4661,1923
+Akmola region,6584,2022,Theft,3446,3138
+Akmola region,6584,2022,Assault,233,6351
+Akmola region,6584,2022,Fraud,1723,4861
+Akmola region,6584,2022,Robbery,1288,5296
+Akmola region,6584,2022,Vandalism,5254,1330
+Aktobe region,7908,2018,Theft,5625,2283
+Aktobe region,7908,2018,Assault,4926,2982
+Aktobe region,7908,2018,Fraud,4727,3181
+Aktobe region,7908,2018,Robbery,3854,4054
+Aktobe region,7908,2018,Vandalism,6256,1652
+Aktobe region,7908,2019,Theft,4202,3706
+Aktobe region,7908,2019,Assault,7692,216
+Aktobe region,7908,2019,Fraud,3096,4812
+Aktobe region,7908,2019,Robbery,5653,2255
+Aktobe region,7908,2019,Vandalism,2093,5815
+Aktobe region,7908,2020,Theft,2058,5850
+Aktobe region,7908,2020,Assault,2635,5273
+Aktobe region,7908,2020,Fraud,5319,2589
+Aktobe region,7908,2020,Robbery,7783,125
+Aktobe region,7908,2020,Vandalism,1707,6201
+Aktobe region,7908,2021,Theft,1511,6397
+Aktobe region,7908,2021,Assault,4184,3724
+Aktobe region,7908,2021,Fraud,6786,1122
+Aktobe region,7908,2021,Robbery,2205,5703
+Aktobe region,7908,2021,Vandalism,987,6921
+Aktobe region,7908,2022,Theft,6520,1388
+Aktobe region,7908,2022,Assault,4994,2914
+Aktobe region,7908,2022,Fraud,2091,5817
+Aktobe region,7908,2022,Robbery,7869,39
+Aktobe region,7908,2022,Vandalism,2697,5211
+Almaty city,39928,2018,Theft,32729,7199
+Almaty city,39928,2018,Assault,4765,35163
+Almaty city,39928,2018,Fraud,22554,17374
+Almaty city,39928,2018,Robbery,2638,37290
+Almaty city,39928,2018,Vandalism,7956,31972
+Almaty city,39928,2019,Theft,17117,22811
+Almaty city,39928,2019,Assault,21317,18611
+Almaty city,39928,2019,Fraud,32744,7184
+Almaty city,39928,2019,Robbery,1607,38321
+Almaty city,39928,2019,Vandalism,5792,34136
+Almaty city,39928,2020,Theft,15637,24291
+Almaty city,39928,2020,Assault,6966,32962
+Almaty city,39928,2020,Fraud,30805,9123
+Almaty city,39928,2020,Robbery,26652,13276
+Almaty city,39928,2020,Vandalism,27287,12641
+Almaty city,39928,2021,Theft,26457,13471
+Almaty city,39928,2021,Assault,25503,14425
+Almaty city,39928,2021,Fraud,7564,32364
+Almaty city,39928,2021,Robbery,2061,37867
+Almaty city,39928,2021,Vandalism,36965,2963
+Almaty city,39928,2022,Theft,13113,26815
+Almaty city,39928,2022,Assault,6826,33102
+Almaty city,39928,2022,Fraud,15578,24350
+Almaty city,39928,2022,Robbery,29270,10658
+Almaty city,39928,2022,Vandalism,6074,33854
+Almaty region,15066,2018,Theft,12974,2092
+Almaty region,15066,2018,Assault,10285,4781
+Almaty region,15066,2018,Fraud,14577,489
+Almaty region,15066,2018,Robbery,13211,1855
+Almaty region,15066,2018,Vandalism,2006,13060
+Almaty region,15066,2019,Theft,6543,8523
+Almaty region,15066,2019,Assault,10849,4217
+Almaty region,15066,2019,Fraud,3137,11929
+Almaty region,15066,2019,Robbery,12901,2165
+Almaty region,15066,2019,Vandalism,7957,7109
+Almaty region,15066,2020,Theft,8146,6920
+Almaty region,15066,2020,Assault,5794,9272
+Almaty region,15066,2020,Fraud,10981,4085
+Almaty region,15066,2020,Robbery,3588,11478
+Almaty region,15066,2020,Vandalism,14207,859
+Almaty region,15066,2021,Theft,4137,10929
+Almaty region,15066,2021,Assault,8287,6779
+Almaty region,15066,2021,Fraud,1162,13904
+Almaty region,15066,2021,Robbery,9076,5990
+Almaty region,15066,2021,Vandalism,10964,4102
+Almaty region,15066,2022,Theft,2326,12740
+Almaty region,15066,2022,Assault,11647,3419
+Almaty region,15066,2022,Fraud,2069,12997
+Almaty region,15066,2022,Robbery,7074,7992
+Almaty region,15066,2022,Vandalism,7263,7803
+Astana city,20313,2018,Theft,11433,8880
+Astana city,20313,2018,Assault,8636,11677
+Astana city,20313,2018,Fraud,18277,2036
+Astana city,20313,2018,Robbery,8826,11487
+Astana city,20313,2018,Vandalism,8420,11893
+Astana city,20313,2019,Theft,6548,13765
+Astana city,20313,2019,Assault,11959,8354
+Astana city,20313,2019,Fraud,19027,1286
+Astana city,20313,2019,Robbery,9064,11249
+Astana city,20313,2019,Vandalism,9631,10682
+Astana city,20313,2020,Theft,4020,16293
+Astana city,20313,2020,Assault,16734,3579
+Astana city,20313,2020,Fraud,16837,3476
+Astana city,20313,2020,Robbery,14588,5725
+Astana city,20313,2020,Vandalism,7478,12835
+Astana city,20313,2021,Theft,5414,14899
+Astana city,20313,2021,Assault,8269,12044
+Astana city,20313,2021,Fraud,15299,5014
+Astana city,20313,2021,Robbery,1143,19170
+Astana city,20313,2021,Vandalism,2613,17700
+Astana city,20313,2022,Theft,3635,16678
+Astana city,20313,2022,Assault,19404,909
+Astana city,20313,2022,Fraud,5633,14680
+Astana city,20313,2022,Robbery,15905,4408
+Astana city,20313,2022,Vandalism,5887,14426
+Atyrau region,5391,2018,Theft,2951,2440
+Atyrau region,5391,2018,Assault,308,5083
+Atyrau region,5391,2018,Fraud,1618,3773
+Atyrau region,5391,2018,Robbery,547,4844
+Atyrau region,5391,2018,Vandalism,4168,1223
+Atyrau region,5391,2019,Theft,3614,1777
+Atyrau region,5391,2019,Assault,3584,1807
+Atyrau region,5391,2019,Fraud,2626,2765
+Atyrau region,5391,2019,Robbery,2347,3044
+Atyrau region,5391,2019,Vandalism,4509,882
+Atyrau region,5391,2020,Theft,4220,1171
+Atyrau region,5391,2020,Assault,2073,3318
+Atyrau region,5391,2020,Fraud,1940,3451
+Atyrau region,5391,2020,Robbery,1194,4197
+Atyrau region,5391,2020,Vandalism,592,4799
+Atyrau region,5391,2021,Theft,1284,4107
+Atyrau region,5391,2021,Assault,307,5084
+Atyrau region,5391,2021,Fraud,160,5231
+Atyrau region,5391,2021,Robbery,994,4397
+Atyrau region,5391,2021,Vandalism,3683,1708
+Atyrau region,5391,2022,Theft,3887,1504
+Atyrau region,5391,2022,Assault,2363,3028
+Atyrau region,5391,2022,Fraud,4219,1172
+Atyrau region,5391,2022,Robbery,2125,3266
+Atyrau region,5391,2022,Vandalism,5154,237
+East Kazakhstan region,9416,2018,Theft,7729,1687
+East Kazakhstan region,9416,2018,Assault,556,8860
+East Kazakhstan region,9416,2018,Fraud,8671,745
+East Kazakhstan region,9416,2018,Robbery,5876,3540
+East Kazakhstan region,9416,2018,Vandalism,4765,4651
+East Kazakhstan region,9416,2019,Theft,3530,5886
+East Kazakhstan region,9416,2019,Assault,259,9157
+East Kazakhstan region,9416,2019,Fraud,3166,6250
+East Kazakhstan region,9416,2019,Robbery,2142,7274
+East Kazakhstan region,9416,2019,Vandalism,3684,5732
+East Kazakhstan region,9416,2020,Theft,8051,1365
+East Kazakhstan region,9416,2020,Assault,229,9187
+East Kazakhstan region,9416,2020,Fraud,6743,2673
+East Kazakhstan region,9416,2020,Robbery,6969,2447
+East Kazakhstan region,9416,2020,Vandalism,4127,5289
+East Kazakhstan region,9416,2021,Theft,8430,986
+East Kazakhstan region,9416,2021,Assault,3378,6038
+East Kazakhstan region,9416,2021,Fraud,2020,7396
+East Kazakhstan region,9416,2021,Robbery,1106,8310
+East Kazakhstan region,9416,2021,Vandalism,648,8768
+East Kazakhstan region,9416,2022,Theft,5915,3501
+East Kazakhstan region,9416,2022,Assault,3546,5870
+East Kazakhstan region,9416,2022,Fraud,881,8535
+East Kazakhstan region,9416,2022,Robbery,8047,1369
+East Kazakhstan region,9416,2022,Vandalism,5777,3639
+Karaganda region,10937,2018,Theft,7449,3488
+Karaganda region,10937,2018,Assault,1478,9459
+Karaganda region,10937,2018,Fraud,10327,610
+Karaganda region,10937,2018,Robbery,5442,5495
+Karaganda region,10937,2018,Vandalism,866,10071
+Karaganda region,10937,2019,Theft,6622,4315
+Karaganda region,10937,2019,Assault,159,10778
+Karaganda region,10937,2019,Fraud,5906,5031
+Karaganda region,10937,2019,Robbery,4976,5961
+Karaganda region,10937,2019,Vandalism,8716,2221
+Karaganda region,10937,2020,Theft,3457,7480
+Karaganda region,10937,2020,Assault,3896,7041
+Karaganda region,10937,2020,Fraud,1675,9262
+Karaganda region,10937,2020,Robbery,5154,5783
+Karaganda region,10937,2020,Vandalism,7634,3303
+Karaganda region,10937,2021,Theft,3193,7744
+Karaganda region,10937,2021,Assault,3291,7646
+Karaganda region,10937,2021,Fraud,1233,9704
+Karaganda region,10937,2021,Robbery,2223,8714
+Karaganda region,10937,2021,Vandalism,9288,1649
+Karaganda region,10937,2022,Theft,9633,1304
+Karaganda region,10937,2022,Assault,3419,7518
+Karaganda region,10937,2022,Fraud,7608,3329
+Karaganda region,10937,2022,Robbery,1932,9005
+Karaganda region,10937,2022,Vandalism,10123,814
+Kostanay region,8528,2018,Theft,3700,4828
+Kostanay region,8528,2018,Assault,3066,5462
+Kostanay region,8528,2018,Fraud,2475,6053
+Kostanay region,8528,2018,Robbery,3010,5518
+Kostanay region,8528,2018,Vandalism,3907,4621
+Kostanay region,8528,2019,Theft,3894,4634
+Kostanay region,8528,2019,Assault,2804,5724
+Kostanay region,8528,2019,Fraud,4655,3873
+Kostanay region,8528,2019,Robbery,7816,712
+Kostanay region,8528,2019,Vandalism,5963,2565
+Kostanay region,8528,2020,Theft,1476,7052
+Kostanay region,8528,2020,Assault,3839,4689
+Kostanay region,8528,2020,Fraud,1494,7034
+Kostanay region,8528,2020,Robbery,1050,7478
+Kostanay region,8528,2020,Vandalism,7522,1006
+Kostanay region,8528,2021,Theft,7727,801
+Kostanay region,8528,2021,Assault,1817,6711
+Kostanay region,8528,2021,Fraud,3983,4545
+Kostanay region,8528,2021,Robbery,2726,5802
+Kostanay region,8528,2021,Vandalism,2345,6183
+Kostanay region,8528,2022,Theft,974,7554
+Kostanay region,8528,2022,Assault,7236,1292
+Kostanay region,8528,2022,Fraud,2638,5890
+Kostanay region,8528,2022,Robbery,8456,72
+Kostanay region,8528,2022,Vandalism,2512,6016
+Kyzylorda region,3589,2018,Theft,1129,2460
+Kyzylorda region,3589,2018,Assault,792,2797
+Kyzylorda region,3589,2018,Fraud,975,2614
+Kyzylorda region,3589,2018,Robbery,848,2741
+Kyzylorda region,3589,2018,Vandalism,3281,308
+Kyzylorda region,3589,2019,Theft,2572,1017
+Kyzylorda region,3589,2019,Assault,2581,1008
+Kyzylorda region,3589,2019,Fraud,2792,797
+Kyzylorda region,3589,2019,Robbery,116,3473
+Kyzylorda region,3589,2019,Vandalism,342,3247
+Kyzylorda region,3589,2020,Theft,272,3317
+Kyzylorda region,3589,2020,Assault,786,2803
+Kyzylorda region,3589,2020,Fraud,121,3468
+Kyzylorda region,3589,2020,Robbery,1085,2504
+Kyzylorda region,3589,2020,Vandalism,2202,1387
+Kyzylorda region,3589,2021,Theft,2954,635
+Kyzylorda region,3589,2021,Assault,1974,1615
+Kyzylorda region,3589,2021,Fraud,968,2621
+Kyzylorda region,3589,2021,Robbery,466,3123
+Kyzylorda region,3589,2021,Vandalism,3179,410
+Kyzylorda region,3589,2022,Theft,69,3520
+Kyzylorda region,3589,2022,Assault,3583,6
+Kyzylorda region,3589,2022,Fraud,675,2914
+Kyzylorda region,3589,2022,Robbery,1321,2268
+Kyzylorda region,3589,2022,Vandalism,1189,2400
+Mangystau Region,4407,2018,Theft,3459,948
+Mangystau Region,4407,2018,Assault,4108,299
+Mangystau Region,4407,2018,Fraud,3663,744
+Mangystau Region,4407,2018,Robbery,926,3481
+Mangystau Region,4407,2018,Vandalism,2593,1814
+Mangystau Region,4407,2019,Theft,3894,513
+Mangystau Region,4407,2019,Assault,1958,2449
+Mangystau Region,4407,2019,Fraud,1269,3138
+Mangystau Region,4407,2019,Robbery,1953,2454
+Mangystau Region,4407,2019,Vandalism,1059,3348
+Mangystau Region,4407,2020,Theft,2989,1418
+Mangystau Region,4407,2020,Assault,757,3650
+Mangystau Region,4407,2020,Fraud,4059,348
+Mangystau Region,4407,2020,Robbery,2762,1645
+Mangystau Region,4407,2020,Vandalism,4043,364
+Mangystau Region,4407,2021,Theft,1136,3271
+Mangystau Region,4407,2021,Assault,3499,908
+Mangystau Region,4407,2021,Fraud,2738,1669
+Mangystau Region,4407,2021,Robbery,2528,1879
+Mangystau Region,4407,2021,Vandalism,2860,1547
+Mangystau Region,4407,2022,Theft,2638,1769
+Mangystau Region,4407,2022,Assault,3599,808
+Mangystau Region,4407,2022,Fraud,3737,670
+Mangystau Region,4407,2022,Robbery,379,4028
+Mangystau Region,4407,2022,Vandalism,679,3728
+North Kazakhstan region,5293,2018,Theft,529,4764
+North Kazakhstan region,5293,2018,Assault,3206,2087
+North Kazakhstan region,5293,2018,Fraud,2490,2803
+North Kazakhstan region,5293,2018,Robbery,3431,1862
+North Kazakhstan region,5293,2018,Vandalism,4899,394
+North Kazakhstan region,5293,2019,Theft,4463,830
+North Kazakhstan region,5293,2019,Assault,4081,1212
+North Kazakhstan region,5293,2019,Fraud,1938,3355
+North Kazakhstan region,5293,2019,Robbery,1915,3378
+North Kazakhstan region,5293,2019,Vandalism,1387,3906
+North Kazakhstan region,5293,2020,Theft,444,4849
+North Kazakhstan region,5293,2020,Assault,8,5285
+North Kazakhstan region,5293,2020,Fraud,3636,1657
+North Kazakhstan region,5293,2020,Robbery,340,4953
+North Kazakhstan region,5293,2020,Vandalism,2069,3224
+North Kazakhstan region,5293,2021,Theft,2750,2543
+North Kazakhstan region,5293,2021,Assault,2082,3211
+North Kazakhstan region,5293,2021,Fraud,1065,4228
+North Kazakhstan region,5293,2021,Robbery,316,4977
+North Kazakhstan region,5293,2021,Vandalism,1812,3481
+North Kazakhstan region,5293,2022,Theft,4427,866
+North Kazakhstan region,5293,2022,Assault,3155,2138
+North Kazakhstan region,5293,2022,Fraud,5198,95
+North Kazakhstan region,5293,2022,Robbery,2114,3179
+North Kazakhstan region,5293,2022,Vandalism,844,4449
+Pavlodar region,6181,2018,Theft,3423,2758
+Pavlodar region,6181,2018,Assault,6103,78
+Pavlodar region,6181,2018,Fraud,5629,552
+Pavlodar region,6181,2018,Robbery,1548,4633
+Pavlodar region,6181,2018,Vandalism,3650,2531
+Pavlodar region,6181,2019,Theft,5530,651
+Pavlodar region,6181,2019,Assault,285,5896
+Pavlodar region,6181,2019,Fraud,4246,1935
+Pavlodar region,6181,2019,Robbery,210,5971
+Pavlodar region,6181,2019,Vandalism,4639,1542
+Pavlodar region,6181,2020,Theft,5846,335
+Pavlodar region,6181,2020,Assault,2264,3917
+Pavlodar region,6181,2020,Fraud,2289,3892
+Pavlodar region,6181,2020,Robbery,5416,765
+Pavlodar region,6181,2020,Vandalism,5372,809
+Pavlodar region,6181,2021,Theft,128,6053
+Pavlodar region,6181,2021,Assault,4806,1375
+Pavlodar region,6181,2021,Fraud,5657,524
+Pavlodar region,6181,2021,Robbery,43,6138
+Pavlodar region,6181,2021,Vandalism,2038,4143
+Pavlodar region,6181,2022,Theft,975,5206
+Pavlodar region,6181,2022,Assault,2592,3589
+Pavlodar region,6181,2022,Fraud,3635,2546
+Pavlodar region,6181,2022,Robbery,3808,2373
+Pavlodar region,6181,2022,Vandalism,2411,3770
